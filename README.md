@@ -1,6 +1,6 @@
 # Food, Quality of Life, and Happiness
-#### Stella Wroblewski
-[Link to my GitHub webpage](https://swroblewski-tu.github.io/)
+##### Stella Wroblewski
+
 ## Project goals
 ##### The main goal of this project is to better understand how diet and food availability impact quality of life and self reported happiness by country. 
 
