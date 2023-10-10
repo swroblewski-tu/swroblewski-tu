@@ -30,3 +30,27 @@ This dataset comes from the Food and Agriculture Organization of the United Nati
 [Link to World Happiness Report](https://worldhappiness.report/ed/2019/#appendices-and-data)
 
 
+
+
+
+Top 5 Countries with the Highest Quality of Life Index:
+       Country  Quality of Life Index
+0      Denmark                  198.6
+1  Switzerland                  195.9
+2      Finland                  194.0
+3    Australia                  191.1
+4      Austria                  191.1
+
+Summary Statistics for Quality of Life Data:
+       Quality of Life Index
+count              71.000000
+mean              142.311268
+std                32.931416
+min                84.000000
+25%               113.000000
+50%               145.700000
+75%               169.050000
+max               198.600000
+
+Correlation between Quality of Life and Cost of Living: 0.85
+
