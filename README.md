@@ -1,8 +1,9 @@
-"Global Happiness: Exploring Factors that Shape Well-being"
+#"Global Happiness: Exploring Factors that Shape Well-being"
+
 Stella Wroblewski
 If running the notebook, please download the csv for the datasets linked below
 
-[Link to my GitHub webpage](https://swroblewski-tu.github.io/)
+##[Link to my GitHub webpage](https://swroblewski-tu.github.io/)
 
 ## Project Questions
 1. Main Research Question:
