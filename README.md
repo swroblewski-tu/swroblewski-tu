@@ -1,4 +1,4 @@
-# "Global Happiness: Exploring Factors that Shape Well-being"
+# "Global : Exploring Factors that Shape Well-being"
 #### Stella Wroblewski
 [Link to my GitHub webpage](https://swroblewski-tu.github.io/)
 ## Project Questions
