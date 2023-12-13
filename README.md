@@ -4,6 +4,7 @@
 #### If running the notebook, please download the csv for the datasets linked below
 
 ## [Link to my GitHub webpage](https://swroblewski-tu.github.io/)
+## [Link to my GitHub repo to download the datasets](https://github.com/swroblewski-tu/swroblewski-tu.github.io/tree/main)
 
 ## Project Questions
 1. Main Research Question:
